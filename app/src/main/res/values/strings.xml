@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click below button to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+
+
+
+
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="top">TOP</string>
+    <string name="accessories">ACCESSORIES</string>
+    <string name="bottom">BOTTOM</string>
+    <string name="footwear">FOOTWEAR</string>
+    <string name="shirt">SHIRT</string>
+    <string name="tshirt">TSHIRT</string>
+    <string name="coat">COAT</string>
+    <string name="formal">FORMAL</string>
+    <string name="casual">CASUAL</string>
+    <string name="party">PARTY</string>
+    <string name="special">SPECIAL</string>
+    <string name="levis">LEVIS</string>
+    <string name="denim">DENIM</string>
+    <string name="xs">XS</string>
+    <string name="s">S</string>
+    <string name="xxl">XXL</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+
+    <string name="info_gender">Gender</string>
+    <string name="info_category">Category</string>
+    <string name="info_subcategory">Sub-Category</string>
+    <string name="info_style">Style</string>
+    <string name="info_brand">Brand</string>
+    <string name="info_size">Size</string>
+    <string name="type_here">Type here</string>
+
+
+
+</resources>
